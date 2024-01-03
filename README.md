@@ -32,7 +32,7 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts` was created by Pablo Orazi. It is licensed under the terms
 of the MIT license.
 
 ## Credits

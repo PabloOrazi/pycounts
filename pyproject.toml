@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.9"
 matplotlib = ">=3.7.1"
+# pycounts = {path = "../pycounts", develop = true}
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.3.2"
